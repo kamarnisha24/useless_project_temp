@@ -5,7 +5,7 @@
 
 
 ## Basic Details
-### individual -kamar nisha fathima
+### individual -kamar nisha fathima-mar baselios christian college of engineering and technology peermade idukki
 
 
 ### Team Members
