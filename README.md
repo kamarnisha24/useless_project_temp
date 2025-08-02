@@ -1,96 +1,85 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# procrastiMATE
 
 
 ## Basic Details
-### Team Name: [Name]
+### Individual:Kamar nisha fathima
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+
+- Member- kamar nisha fathima- mar baselios christian college of engineering and technology peermade 
+
 
 ### Project Description
-[2-3 lines about what your project does]
+ProcrastiMATE is a satirical anti-productivity app that rewards users for procrastinating. Instead of helping you get things done, it tracks how long you avoid tasks and celebrates your delays with pointless badges, fake coins, and AI-generated excuses. It’s the only timer that cheers when you do absolutely nothing.
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In a world obsessed with hustle, motivation, and getting things done, there's zero support for people who just want to chill. No app celebrates the art of doing nothing, delaying everything, and embracing glorious laziness. Productivity tools are everywhere — but where’s the love for procrastinators?
+
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+
+
+I didn’t want to be productive. I just wanted to scroll, snack, and snooze — and finally, there’s an app that gets me.
+
+So I created ProcrastiMATE: the anti-productivity app made only for me... and accidentally perfect for everyone else.
+
+I get rewarded for not doing things.
+I earn Delay Score™ points for avoiding tasks.
+I add tasks to my Anti-To-Do List — then do absolutely nothing about them.
+I shake my phone and get an excuse for my professor, boss, or mom.
+And when I’m dangerously close to doing something useful, I hit the Emergency Distraction Button.
+
+This isn’t self-help. This is self-halt.
+
+Because sometimes, doing nothing feels like everything.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
+- HTML,CSS, Javascript 
+- react.js,node.js,vue.js
+- Moment.js,acios,lottir
+- github,Vercel, Vs code,
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+screenshot 1
+https://drive.google.com/file/d/1lBTfTXFKwE5UAAVGYTuX0DoXCR_6mBnx/view?usp=drivesdk
+ProcrastiMATE is the world’s leading anti-productivity app that rewards you for doing absolutely nothing. With millions of users wasting time together, we turn delay into delight — because the longer you wait, the more you win. 🌀
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+screenshot 2
+https://drive.google.com/file/d/1lJz11_i1XNO2CWV2ivFd1cDKauBrbJEg/view?usp=drivesdk
+This section showcases the core “anti-features” of ProcrastiMATE, a satirical productivity app that encourages doing nothing — in style. Each feature is a playful inversion of traditional productivity tools, designed to humorously reward inactivity
+screenshot 3
+https://drive.google.com/file/d/1lLilZI8o_RUkJ4d5eTKb-nGe6_tUNb2y/view?usp=drivesdk
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Your personalized procrastination hub! Track how long you’ve avoided work, earn delay points, and celebrate "achievements" like coffee breaks and tasks avoided — all while soaking in some daily demotivation
+screenshot 4
+https://drive.google.com/file/d/1lRrymuebRGaX9O44faYFa7jKHyrjQeDB/view?usp=drivesdk
+Welcome to your Anti-To-Do List — the only list where the longer you ignore tasks, the more points you earn! Add chores, emails, or life goals here… then masterfully avoid them to rack up delay points. Productivity? Never heard of her. 😌📉
+screenshot 5
+https://drive.google.com/file/d/1lTjX3DoC4WD3oe5k4EZjOoeFnALFxGDp/view?usp=drivesdk
+Climb the Global Procrastination Leaderboard and earn eternal glory for doing absolutely nothing! Compete with elite dawdlers like ProcrastiNinja and DeadlineWhisperer — the longer you delay, the higher you rise. 🏆⏳
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1HPtD44PvTU6w6BnqNIVwXu92GHrB9sU2/view?usp=drivesdk
+ProcrastiMATE Demo – Where Productivity Goes to Die!
+In this screen recording, watch how ProcrastiMATE turns putting things off into a competitive sport. From the Anti-To-Do List that rewards your finest acts of avoidance to a global leaderboard of elite procrastinators, it’s the ultimate app for doing less — and feeling great about it. Delay, earn, and vibe. 💻😴📊
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
+## Contribution,
+- kamar nisha fathima
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
